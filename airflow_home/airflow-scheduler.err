@@ -1,0 +1,6 @@
+[2026-04-25 09:13:43 +0000] [14296] [INFO] Starting gunicorn 25.3.0
+[2026-04-25 09:13:43 +0000] [14296] [INFO] Listening at: http://[::]:8793 (14296)
+[2026-04-25 09:13:43 +0000] [14296] [INFO] Using worker: sync
+[2026-04-25 09:13:43 +0000] [14298] [INFO] Booting worker with pid: 14298
+[2026-04-25 09:13:43 +0000] [14299] [INFO] Booting worker with pid: 14299
+[2026-04-25 09:13:43 +0000] [14296] [INFO] Control socket listening at /home/codespace/.gunicorn/gunicorn.ctl
