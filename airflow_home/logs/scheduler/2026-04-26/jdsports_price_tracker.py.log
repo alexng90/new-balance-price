@@ -1,0 +1,42 @@
+[2026-04-26T08:03:50.720+0000] {processor.py:161} INFO - Started process (PID=59117) to work on /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:03:50.721+0000] {processor.py:830} INFO - Processing file /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py for tasks to queue
+[2026-04-26T08:03:50.722+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:03:50.721+0000] {dagbag.py:540} INFO - Filling up the DagBag from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:03:50.829+0000] {processor.py:840} INFO - DAG(s) 'jdsports_newbalance_price_tracker' retrieved from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:03:50.840+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:03:50.840+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-26T08:03:50.858+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:03:50.858+0000] {dag.py:3954} INFO - Setting next_dagrun for jdsports_newbalance_price_tracker to 2026-04-26 06:17:00+00:00, run_after=2026-04-26 07:17:00+00:00
+[2026-04-26T08:03:50.882+0000] {processor.py:183} INFO - Processing /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py took 0.165 seconds
+[2026-04-26T08:04:37.271+0000] {processor.py:161} INFO - Started process (PID=59582) to work on /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:04:37.272+0000] {processor.py:830} INFO - Processing file /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py for tasks to queue
+[2026-04-26T08:04:37.273+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:04:37.272+0000] {dagbag.py:540} INFO - Filling up the DagBag from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:04:37.385+0000] {processor.py:840} INFO - DAG(s) 'jdsports_newbalance_price_tracker' retrieved from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:04:37.397+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:04:37.395+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-26T08:04:37.414+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:04:37.414+0000] {dag.py:3954} INFO - Setting next_dagrun for jdsports_newbalance_price_tracker to 2026-04-26 06:17:00+00:00, run_after=2026-04-26 07:17:00+00:00
+[2026-04-26T08:04:37.434+0000] {processor.py:183} INFO - Processing /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py took 0.167 seconds
+[2026-04-26T08:04:40.481+0000] {processor.py:161} INFO - Started process (PID=59601) to work on /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:04:40.481+0000] {processor.py:830} INFO - Processing file /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py for tasks to queue
+[2026-04-26T08:04:40.482+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:04:40.482+0000] {dagbag.py:540} INFO - Filling up the DagBag from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:04:40.612+0000] {processor.py:840} INFO - DAG(s) 'jdsports_newbalance_price_tracker' retrieved from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:04:40.636+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:04:40.635+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-26T08:04:40.662+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:04:40.662+0000] {dag.py:3954} INFO - Setting next_dagrun for jdsports_newbalance_price_tracker to 2026-04-26 06:17:00+00:00, run_after=2026-04-26 07:17:00+00:00
+[2026-04-26T08:04:40.696+0000] {processor.py:183} INFO - Processing /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py took 0.220 seconds
+[2026-04-26T08:05:08.865+0000] {processor.py:161} INFO - Started process (PID=59879) to work on /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:05:08.867+0000] {processor.py:830} INFO - Processing file /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py for tasks to queue
+[2026-04-26T08:05:08.868+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:05:08.868+0000] {dagbag.py:540} INFO - Filling up the DagBag from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:05:09.101+0000] {processor.py:840} INFO - DAG(s) 'jdsports_newbalance_price_tracker' retrieved from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:05:09.119+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:05:09.118+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-26T08:05:09.151+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:05:09.149+0000] {dag.py:3954} INFO - Setting next_dagrun for jdsports_newbalance_price_tracker to 2026-04-26 06:17:00+00:00, run_after=2026-04-26 07:17:00+00:00
+[2026-04-26T08:05:09.180+0000] {processor.py:183} INFO - Processing /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py took 0.324 seconds
+[2026-04-26T08:05:20.228+0000] {processor.py:161} INFO - Started process (PID=60049) to work on /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:05:20.229+0000] {processor.py:830} INFO - Processing file /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py for tasks to queue
+[2026-04-26T08:05:20.230+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:05:20.229+0000] {dagbag.py:540} INFO - Filling up the DagBag from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:05:20.357+0000] {processor.py:840} INFO - DAG(s) 'jdsports_newbalance_price_tracker' retrieved from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:05:20.373+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:05:20.373+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-26T08:05:20.391+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:05:20.391+0000] {dag.py:3954} INFO - Setting next_dagrun for jdsports_newbalance_price_tracker to 2026-04-26 06:17:00+00:00, run_after=2026-04-26 07:17:00+00:00
+[2026-04-26T08:05:20.410+0000] {processor.py:183} INFO - Processing /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py took 0.187 seconds
+[2026-04-26T08:05:24.161+0000] {processor.py:161} INFO - Started process (PID=60070) to work on /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:05:24.162+0000] {processor.py:830} INFO - Processing file /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py for tasks to queue
+[2026-04-26T08:05:24.163+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:05:24.162+0000] {dagbag.py:540} INFO - Filling up the DagBag from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:05:24.283+0000] {processor.py:840} INFO - DAG(s) 'jdsports_newbalance_price_tracker' retrieved from /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py
+[2026-04-26T08:05:24.297+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:05:24.297+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-26T08:05:24.314+0000] {logging_mixin.py:188} INFO - [2026-04-26T08:05:24.314+0000] {dag.py:3954} INFO - Setting next_dagrun for jdsports_newbalance_price_tracker to 2026-04-26 06:17:00+00:00, run_after=2026-04-26 07:17:00+00:00
+[2026-04-26T08:05:24.331+0000] {processor.py:183} INFO - Processing /workspaces/new-balance-price/airflow_home/dags/jdsports_price_tracker.py took 0.178 seconds
